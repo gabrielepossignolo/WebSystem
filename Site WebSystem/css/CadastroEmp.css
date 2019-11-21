@@ -1,0 +1,34 @@
+body{
+    background-color: #C09F80;
+}
+
+.btnCadastrar{
+    padding: 10px 10px 10px 10px;  
+    object-position: center;
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+    margin-left: auto;
+}
+
+h1{
+    color: #ABA795;
+    font-family: sans-serif, fantasy;
+    -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+    position: relative;
+    text-align: center;
+    font-size: 500%;
+}    
+
+.formCadastro{
+    font-size: 16px;
+    background-color: #D7CEC7;
+    max-width: 500px;
+    margin: auto auto;
+    padding: 20px 10px 10px 10px;
+    border-top: 100px;
+    border-radius: 20px;
+}
+
+

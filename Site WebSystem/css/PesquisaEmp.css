@@ -1,0 +1,64 @@
+body{
+    background-color: #C09F80;
+}
+
+.txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-style:italic;
+  font-size:18px;
+  object-position: center;
+  border:none;
+  height:32px;
+  width:150px;
+  border-radius: 20px;
+}
+
+.pBusca{
+    font-size: 16px;
+    max-width: 500px;
+    margin: auto auto;
+    padding: 20px 10px 10px 10px;
+    border-top: 100px;
+}
+
+.divBusca{
+    font-size: 16px;
+    max-width: 500px;
+    margin: auto auto;
+    padding: 20px 10px 10px 10px;
+    border-top: 100px;
+}
+
+h1{
+    color: #ABA795;
+    font-family: sans-serif, fantasy;
+    -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+    position: relative;
+    text-align: center;
+    font-size: 500%;
+}    
+
+.container{
+    font-size: 16px;
+    background-color: #D7CEC7;
+    max-width: 500px;
+    margin: auto auto;
+    padding: 20px 10px 10px 10px;
+    border-top: 100px;
+    border-radius: 20px;
+}
+
+.formCadastro{
+    font-size: 16px;
+    background-color: #D7CEC7;
+    max-width: 500px;
+    margin: auto auto;
+    padding: 20px 10px 10px 10px;
+    border-top: 100px;
+    border-radius: 20px;
+}
+
+
